@@ -14,6 +14,14 @@
 
 ###
 
+<h2 align="left">What i listen to</h2>
+
+###
+
+<p align="left">I like listening to all kinds of music, but the ones I enjoy the most are electronic music, including most of its subgenres (except hardstyle).<p>
+
+###
+
 <h2 align="left">I code with</h2>
 
 ###
@@ -54,18 +62,4 @@
 
 ###
 
-
-<h2 align="left">What i listen to</h2>
-
-###
-
-
-<p align="left">I like listening to all kinds of music, but the ones I enjoy the most are electronic music, including most of its subgenres (except hardstyle).</p>
-
-###
-
-
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=ahg48cupv24woph2gca7paru8)
-
-###
 <img align="center" src= "banner.png" height=auto width=700px>
